@@ -1,10 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-##Dashboard UI
+## Dashboard UI
  ![dashboard_main_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_main_section.png)
+ 
   ![dashboard_user_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_user_section.png)
+  
    ![dashboard_roles_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_roles_section.png)
+   
     ![dashboard_settings_profile_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_settings_profile_section.png)
+    
      ![dashboard_settings_password_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_settings_password_section.png)
 
 ## Getting Started
