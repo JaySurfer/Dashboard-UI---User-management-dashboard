@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Dashboard UI
+## ## Dashboard UI
  ![dashboard_main_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_main_section.png)
  
   ![dashboard_user_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_user_section.png)
