@@ -7,10 +7,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
   
    ![dashboard_roles_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_roles_section.png)
    
-    ![dashboard_settings_profile_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_settings_profile_section.png)
-    
-     ![dashboard_settings_password_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/b94ef58ad09eaa0da598e79db8ceaf6d7bb434c9/dashboard_settings_password_section.png)
+   ![dashboard_settings_profile_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/c771d19e26cd70506058761a70ceb5ed4a6d72da/dashboard_settings_profile_section.png)
+   
+   ![dashboard_settings_password_section](https://github.com/JaySurfer/Dashboard-UI---User-management-dashboard/blob/c771d19e26cd70506058761a70ceb5ed4a6d72da/dashboard_settings_password_section.png)
 
+   
+
+   
+ 
 ## Getting Started
 
 First, run the development server:
